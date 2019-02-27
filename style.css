@@ -2,5 +2,10 @@
 
 }
 .main-section{
-	
+
+}
+#navbar{
+	position: flex;
+	float: left;
+	height: 100%;
 }
