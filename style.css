@@ -1,11 +1,31 @@
 #main-doc{
+	height: 1000px;
+	flex-direction: row;
 
 }
-.main-section{
 
-}
 #navbar{
-	position: flex;
-	float: left;
+	display: block;
+	position: fixed;
 	height: 100%;
+	width: 25%;
+	color: #000;
+  	padding: 8px 16px;
+  	text-decoration: none;
+  	overflow: auto;
+  	background-color: lightgray;
+  	top: 0;
+  	left: 0;
+}
+a{
+	display: block;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#container2{
+	margin-left: 28%;
+	height: 1000px;
 }
