@@ -30,10 +30,14 @@ ul{
 }
 #container2{
 	margin-left: 28%;
+	margin-right: 50px;
 	height: 1000px;
 }
 #nav-header{
 	border-bottom: 1px solid #555;
 	padding: 10px 0px 10px 0px;
 	text-align: center;
+}
+.bigger_text{
+	font-size: 30px;
 }
