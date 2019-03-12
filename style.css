@@ -31,7 +31,7 @@ ul{
 #container2{
 	margin-left: 28%;
 	margin-right: 50px;
-	height: 1000px;
+	height: 5000px;
 }
 #nav-header{
 	border-bottom: 1px solid #555;
@@ -44,6 +44,11 @@ ul{
 #code{
 	background-color: lightgray;
 	width: 100%;
-	height: 80px;
+	height: 100%;
 	padding: 10px 10px;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: #295;
+  }
 }
