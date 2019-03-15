@@ -1,5 +1,5 @@
 #main-doc{
-	height: 1000px;
+	height: 100%;
 	flex-direction: row;
 
 }
@@ -37,7 +37,7 @@ ul{
 	font-family: 'Muli', sans-serif;
 	margin-left: 28%;
 	margin-right: 50px;
-	height: 5000px;
+	height: 100%;
 }
 #nav-header{
 	border-bottom: 1px solid #555;
@@ -58,4 +58,7 @@ ul{
   body {
     background-color: #295;
   }
+}
+p{
+	margin-bottom: 40px;
 }
